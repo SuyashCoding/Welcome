@@ -1,13 +1,9 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✨;+I'm+Suyash+!+✨;" />
+<h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Suyash+!+✨;" />
 </h1>
-<h3 align="center">👤 About Me</h3>
-
-<h4 align="center"> <b>I'm Suyash currently pursuing my bachelor degree in Computer Science from North Carolina State University.</b></h4>
-A sophomore at North Carolina State University, pursuing a major in Computer Science (AI concentration) and a minor in Mathematics. Proficient in multiple programming languages, including Java, Python, C, HTML, and CSS, with hands-on experience using tools such as Jupyter Notebook, VS Code, Git, and various data analytics platforms. Well-versed in machine learning models and their applications. An inventor with a granted patent, currently seeking a summer internship to collaborate on solving problems and delivering value.
-<p><b>Major:</b> Computer Science <b>Minor:</b> Mathematics</p>
+A sophomore at <b>North Carolina State University</b>, pursuing a <b>major in Computer Science (AI concentration)</b> and a <b>minor in Mathematics</b>. Proficient in multiple programming languages, including Java, Python, C, HTML, and CSS, with hands-on experience using tools such as Jupyter Notebook, VS Code, Git, and various data analytics platforms. Well-versed in machine learning models and their applications. An inventor with a granted patent, currently seeking a summer internship to collaborate on solving problems and delivering value.
 <p><b>Expected graduation year:</b> Fall 2027</p>
-<p><b>GPA:</b> 3.6/4</p>
+<p><b>Current GPA:</b> 3.6/4</p>
 <p>
 <b>Relevant coursework:</b>
 Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics, Software development with programming languages, Mathematics, Automata and Grammars, Computability
