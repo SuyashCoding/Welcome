@@ -5,6 +5,13 @@
 
 <h4 align="center"> <b>I'm Suyash currently pursuing my bachelor degree in Computer Science from North Carolina State University.</b></h4>
 A sophomore at North Carolina State University, pursuing a major in Computer Science (AI concentration) and a minor in Mathematics. Proficient in multiple programming languages, including Java, Python, C, HTML, and CSS, with hands-on experience using tools such as Jupyter Notebook, VS Code, Git, and various data analytics platforms. Well-versed in machine learning models and their applications. An inventor with a granted patent, currently seeking a summer internship to collaborate on solving problems and delivering value.
+<p><b>Major:</b> Computer Science <b>Minor:</b> Mathematics</p>
+<p><b>Expected graduation year:</b> Fall 2027</p>
+<p><b>GPA:</b> 3.6/4</p>
+<p>
+<b>Relevant coursework:</b>
+Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics, Software development with programming languages, Mathematics, Automata and Grammars, Computability
+</p>
 
 <h1></h1>
 <p align="center">
@@ -12,8 +19,7 @@ A sophomore at North Carolina State University, pursuing a major in Computer Sci
     <img src="https://skillicons.dev/icons?i=c,python,java,github,html,css,js,ts,vscode&theme=light&perline=10"
          style="display: block; margin: auto;" />
 </a>
-  <br>
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=figma,idea,java" />
-  </a>
+<br>
+<a href="#"><img src="https://skillicons.dev/icons?i=figma,idea,java" /></a>
 </p>
+<h1></h1>
