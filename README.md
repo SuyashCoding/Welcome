@@ -1,5 +1,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Suyash+!+✨;"/>
+<br>
 A sophomore at <b>North Carolina State University</b>, pursuing a <b>major in Computer Science (AI concentration)</b> and a <b>minor in Mathematics</b>. Proficient in multiple programming languages, including Java, Python, C, HTML, and CSS, with hands-on experience using tools such as Jupyter Notebook, VS Code, Git, and various data analytics platforms. Well-versed in machine learning models and their applications. An inventor with a granted patent, currently seeking a summer internship to collaborate on solving problems and delivering value.
 <p><b>Expected graduation year:</b> Fall 2027</p>
 <p><b>Current GPA:</b> 3.6/4</p>
@@ -17,7 +18,6 @@ Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics
 <a href="#"><img src="https://skillicons.dev/icons?i=figma,idea,java" /></a>
 </p>
 
-<h1></h1>
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Technical skills</h3>
 <ul class="no-bullets">
 <li><b>Programming languages:</b> Java, Python, C, HTML, CSS</li>
@@ -33,7 +33,6 @@ Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics
 <li><b>mathematical software or tools:</b> MATLAB</li>
 </ul>
 
-<h1></h1>
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Patent and publications:</h3>
 <b>Patent number and name:</b>416708 (Stick Based Leaf Plate Stapler) [<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/Eregister" target="_blank" rel="noopener noreferrer">Search Link</a>]<br>
 <b>Patent Grant by:</b>Office of the Controller General of Patents, Designs & Trade Marks, Intellectual Property, India<br>
@@ -41,7 +40,7 @@ Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics
 <br>
 <a href="https://www.linkedin.com/posts/suyash-patel-9246a4266_pdf-disguising-code-to-help-students-understand-activity-7228177049264295937-NqFP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmKM3cBFMOcMb6Qawas6W6JgQaYJix3-XU" target="_blank" rel="noopener noreferrer">A summary of "Disguising Code to Help Students Understand Code Similarity".</a>
 </p>
-<h1></h1>
+
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Achievements and Recognitions:</h3>
 <ul class="no-bullets">
 <li><b>Dr. APJ Abdul Kalam Ignite Award (2019):</b> Received from former President of India, Mr. Pranab Mukherjee, for the Stick-Based Leaf Plate Stapler idea.</li>
@@ -49,7 +48,7 @@ Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics
 <li><b>First Prize & Special Recognition (2015):</b> Awarded at the county-level science fair for "Impact of Different Liquids on Teeth."</li>
 <li><b>President’s Educational Award (2015):</b> Recognized for outstanding academic excellence at Lu Sutton Elementary School, Novato, California.</li>
 </ul>
-<h1></h1>
+
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Project Experience - list of academic or personal projects</h3>
 <b>Project name: WolfScheduler</b><br>
 WolfScheduler is a project that reads in a list of available courses and allows users to build their semester schedule. 
