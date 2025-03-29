@@ -9,6 +9,7 @@ A sophomore at <b>North Carolina State University</b>, pursuing a <b>major in Co
 Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics, Software development with programming languages, Mathematics, Automata and Grammars, Computability
 </p>
 
+<!--
 <h1></h1>
 <p align="center">
 <a href="#">
@@ -17,6 +18,11 @@ Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics
 <br>
 <a href="#"><img src="https://skillicons.dev/icons?i=figma,idea,java" /></a>
 </p>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,ai,github,linux,leetcode,eclipse,vim,jupyter,matlab" />
+</a>
+-->
 
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Technical skills</h3>
 <ul class="no-bullets">
