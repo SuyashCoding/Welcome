@@ -40,11 +40,14 @@ Data structures, Algorithms, Calculus I, II, and III, Linear Algebra, Statistics
 </ul>
 
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Patent and publications:</h3>
+<a href="https://ieee-icad.org/wp-content/uploads/2026/06/159.pdf" target="_blank" rel="noopener noreferrer">A Multi-Stage Deep Neural Network with SIFT-VGG late Feature Fusion for muzzle identification</a>
+
+<a href="https://www.linkedin.com/posts/suyash-patel-9246a4266_pdf-disguising-code-to-help-students-understand-activity-7228177049264295937-NqFP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmKM3cBFMOcMb6Qawas6W6JgQaYJix3-XU" target="_blank" rel="noopener noreferrer">A summary of "Disguising Code to Help Students Understand Code Similarity".</a>
+
 <b>Patent number and name:</b>416708 (Stick Based Leaf Plate Stapler) [<a href="https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/Eregister" target="_blank" rel="noopener noreferrer">Search Link</a>]<br>
 <b>Patent Grant by:</b>Office of the Controller General of Patents, Designs & Trade Marks, Intellectual Property, India<br>
 <p>
 <br>
-<a href="https://www.linkedin.com/posts/suyash-patel-9246a4266_pdf-disguising-code-to-help-students-understand-activity-7228177049264295937-NqFP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAmKM3cBFMOcMb6Qawas6W6JgQaYJix3-XU" target="_blank" rel="noopener noreferrer">A summary of "Disguising Code to Help Students Understand Code Similarity".</a>
 </p>
 
 <h3 style="background-color: #f1f1f1; print-color-adjust: exact; -webkit-print-color-adjust: exact;">Achievements and Recognitions:</h3>
